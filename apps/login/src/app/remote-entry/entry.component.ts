@@ -22,7 +22,7 @@ import { UserService } from '@ng-mf/shared/data-access-user';
     `
       .login-app {
         width: 30vw;
-        border: 2px dashed black;
+        border: 2px dashed orange;
         padding: 8px;
         margin: 0 auto;
       }
